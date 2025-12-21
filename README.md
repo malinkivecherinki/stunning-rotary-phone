@@ -1,12 +1,12 @@
 # Project
 
-## Update 64
+## Update 66
 
 This project includes various utilities and tools.
 
 ### Features
 
-- Feature 64
+- Feature 66
 - Utility functions
 - Configuration management
 
@@ -24,4 +24,4 @@ const utils = require('./src/utils');
 
 ### Changelog
 
-- Update 64: Added new features and improvements
+- Update 66: Added new features and improvements
